@@ -7,7 +7,9 @@ Som den første simple opgave udi udvikling af grafiske brugerflader er en simpe
 Her er essensen dog alligevel.
 
 $$a \cdot x^2 + b \cdot x + c = 0$$
+
 $$d = b^2- 4 \cdot a \cdot c$$ 
+
 $$x = \frac{-b \pm \sqrt{d}}{2 \cdot a}$$
 
 I stedet skal I bruge jeres energi på design og implementering af en grafisk brugerflade. En del af udviklingprocessen af grafiske brugerflader er at sætte sig ned med *papir og blyant* og tegne forskellige designs.
